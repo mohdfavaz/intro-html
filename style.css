@@ -114,5 +114,8 @@ a {
       -webkit-transform: translate3d(-75%, 0%, 0);
               transform: translate3d(-75%, 0%, 0);
     }
+      git fetch origin
+git checkout -b add-style origin/add-style
+git merge main
   }
   
